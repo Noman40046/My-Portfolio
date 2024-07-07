@@ -19,7 +19,7 @@ const Header = () => {
       <div className=" pl-4 pr-4 sm:pl-20 sm:pr-20 navbar flex items-center justify-between">
         <div className="flex-1">
           <Link to="">
-          <img className="w-48" src="/public/noman.png" alt="" />
+          <img className="w-48" src="/noman.png" alt="" />
           
           </Link>
           

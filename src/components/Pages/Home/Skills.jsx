@@ -16,7 +16,7 @@ const Skills = () => {
       <div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] bg-white p-4 rounded border border-slate-200 shadow" data-aos="fade-down">
         <div class="flex items-center justify-between space-x-2 mb-3" >
           <div class="font-bold text-2xl text-slate-900">HTML</div>
-          <img class="" width="40"  height="12" src="/public/html.png" alt="" />
+          <img class="" width="40"  height="12" src="html.png" alt="" />
         </div>
         <div class="text-slate-500">Create structured, semantic, and accessible HTML code to build the foundation of your website.</div>
       </div>
@@ -29,7 +29,7 @@ const Skills = () => {
       <div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] bg-white p-4 rounded border border-slate-200 shadow" data-aos="fade-left">
         <div class="flex items-center justify-between space-x-2 mb-3">
         <div class="font-bold text-2xl text-slate-900">CSS</div>
-          <img class="" width="40"  height="12" src="/public/css.png" alt="" />
+          <img class="" width="40"  height="12" src="/css.png" alt="" />
         </div>
         <div class="text-slate-500"> Specialize in crafting visually appealing and responsive designs using CSS to enhance your website's user experience.</div>
       </div>
@@ -42,7 +42,7 @@ const Skills = () => {
       <div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] bg-white p-4 rounded border border-slate-200 shadow" data-aos="fade-right">
         <div class="flex items-center justify-between space-x-2 mb-1">
           <div class="font-bold text-2xl text-slate-900">JavaScript</div>
-          <img class="" width="40"  height="12" src="/public/java-script.png" alt="" />
+          <img class="" width="40"  height="12" src="/java-script.png" alt="" />
         </div>
         <div class="text-slate-500">Develop interactive and dynamic web applications with JavaScript to engage your audience effectively.</div>
       </div>
@@ -55,7 +55,7 @@ const Skills = () => {
       <div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] bg-white p-4 rounded border border-slate-200 shadow" data-aos="fade-left">
         <div class="flex items-center justify-between space-x-2 mb-1">
           <div class="font-bold text-2xl text-slate-900">Bootstrap</div>
-          <img class="" width="40"  height="12" src="/public/bootstrap.png" alt="" />
+          <img class="" width="40"  height="12" src="/bootstrap.png" alt="" />
         </div>
         <div class="text-slate-500">Quickly build responsive, mobile-first websites that look great on any device.</div>
       </div>
@@ -68,7 +68,7 @@ const Skills = () => {
       <div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] bg-white p-4 rounded border border-slate-200 shadow" data-aos="fade-right">
         <div class="flex items-center justify-between space-x-2 mb-1">
           <div class="font-bold text-2xl text-slate-900">React</div>
-          <img class="" width="40"  height="12" src="/public/react.png" alt="" />
+          <img class="" width="40"  height="12" src="/react.png" alt="" />
 
         </div>
         <div class="text-slate-500">Create high-performance, user-friendly interfaces with React, ideal for complex web applications</div>
@@ -83,7 +83,7 @@ const Skills = () => {
       <div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] bg-white p-4 rounded border border-slate-200 shadow" data-aos="fade-left">
         <div class="flex items-center justify-between space-x-2 mb-1">
           <div class="font-bold text-2xl text-slate-900">Tailwind</div>
-          <img class="" width="40"  height="12" src="/public/tailwind.png" alt="" />
+          <img class="" width="40"  height="12" src="/tailwind.png" alt="" />
         </div>
         <div class="text-slate-500">Deliver streamlined and efficient front-end designs using Tailwind CSS to enhance your web project</div>
       </div>
@@ -97,7 +97,7 @@ const Skills = () => {
       <div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] bg-white p-4 rounded border border-slate-200 shadow" data-aos="fade-up">
         <div class="flex items-center justify-between space-x-2 mb-1">
           <div class="font-bold text-2xl text-slate-900">WordPress</div>
-          <img class="" width="40"  height="12" src="/public/wordpress.png" alt="" />
+          <img class="" width="40"  height="12" src="/wordpress.png" alt="" />
         </div>
         <div class="text-slate-500">Design and manage customized WordPress sites to meet your business needs efficiently and effectively.</div>
       </div>
