@@ -33,25 +33,25 @@ const About = () => {
               </h2>
               <div className="all-interest flex gap-8">
                 <div className="first-interest flex-col flex items-center">
-                  <img className="w-12" src="/public/robotic-hand.png" alt="" />
+                  <img className="w-12" src="/robotic-hand.png" alt="" />
                   <a className="interest-names text-2xl  font-semibold ml-2">
                     Technology
                   </a>
                 </div>
                 <div className="first-interest flex flex-col items-center">
-                <img className="w-12" src="/public/football-players.png" alt="" />
+                <img className="w-12" src="/football-players.png" alt="" />
                   <a className="interest-names text-2xl  font-semibold ml-2">
                     Football
                   </a>
                 </div>
                 <div className="first-interest flex flex-col items-center">
-                <img className="w-12" src="/public/luggage.png" alt="" />
+                <img className="w-12" src="/luggage.png" alt="" />
                   <a className="interest-names text-2xl  font-semibold ml-2">
                     Travel
                   </a>
                 </div>
                 <div className="first-interest flex flex-col items-center">
-                <img className="w-12" src="/public/cinema.png" alt="" />
+                <img className="w-12" src="/cinema.png" alt="" />
                   <a className="interest-names text-2xl  font-semibold ml-2">
                     Movies
                   </a>
