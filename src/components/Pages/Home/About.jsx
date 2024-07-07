@@ -68,7 +68,7 @@ const About = () => {
 
               <img
                 class="relative w-full xl:max-w-lg xl:mx-auto -mt-40 3xl:origin-top 2xl:scale-150"
-                src="/public/me.png"
+                src="/me.png"
                 alt=""
               />
             </div>
