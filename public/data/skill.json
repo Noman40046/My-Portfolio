@@ -1,1 +1,47 @@
-
+{
+    "skills": [
+      {
+        "id": 1,
+        "title": "HTML",
+        "description": "Create structured, semantic, and accessible HTML code to build the foundation of your website.",
+        "icon": "/html.png"
+      },
+      {
+        "id": 2,
+        "title": "CSS",
+        "description": "Specialize in crafting visually appealing and responsive designs using CSS to enhance your website's user experience.",
+        "icon": "/css.png"
+      },
+      {
+        "id": 3,
+        "title": "JavaScript",
+        "description": "Develop interactive and dynamic web applications with JavaScript to engage your audience effectively.",
+        "icon": "/java-script.png"
+      },
+      {
+        "id": 4,
+        "title": "Bootstrap",
+        "description": "Quickly build responsive, mobile-first websites that look great on any device.",
+        "icon": "/bootstrap.png"
+      },
+      {
+        "id": 5,
+        "title": "React",
+        "description": "Create high-performance, user-friendly interfaces with React, ideal for complex web applications.",
+        "icon": "/react.png"
+      },
+      {
+        "id": 6,
+        "title": "Tailwind",
+        "description": "Deliver streamlined and efficient front-end designs using Tailwind CSS to enhance your web project.",
+        "icon": "/tailwind.png"
+      },
+      {
+        "id": 7,
+        "title": "WordPress",
+        "description": "Design and manage customized WordPress sites to meet your business needs efficiently and effectively.",
+        "icon": "/wordpress.png"
+      }
+    ]
+  }
+  

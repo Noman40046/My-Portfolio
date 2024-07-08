@@ -103,31 +103,31 @@
 
 .shadow-custom1 {
   box-shadow: 8px 8px 0px  #FF7816;
- border: none;
+ border: 1px solid rgba(138, 138, 138, 0.229);
 }
 .shadow-custom2 {
   box-shadow: 8px 8px 0px  #1572B6;
- border: none;
+ border: 1px solid rgba(138, 138, 138, 0.229);
 }
 .shadow-custom3 {
   box-shadow: 8px 8px 0px  #FFC107;
- border: none;
+ border: 1px solid rgba(138, 138, 138, 0.229);
 }
 .shadow-custom4 {
   box-shadow: 8px 8px 0px  #5E3B7F;
- border: none;
+ border: 1px solid rgba(138, 138, 138, 0.229);
 }
 .shadow-custom5 {
   box-shadow: 8px 8px 0px  #4A73FF;
- border: none;
+ border: 1px solid rgba(138, 138, 138, 0.229);
 }
 .shadow-custom6 {
   box-shadow: 8px 8px 0px  #00BFFF;
- border: none;
+ border: 1px solid rgba(138, 138, 138, 0.229);
 }
 .shadow-custom7 {
   box-shadow: 8px 8px 0px  #54A3BD;
- border: none;
+ border: 1px solid rgba(138, 138, 138, 0.229);
 }
 
 
