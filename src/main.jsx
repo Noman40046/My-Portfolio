@@ -5,12 +5,11 @@ import { createBrowserRouter, RouterProvider, } from 'react-router-dom';
 
 import Home from './components/Pages/Home/Home.jsx';
 import About from './components/Pages/Home/About.jsx';
-import Journey from './components/Pages/Journey/Journey.jsx';
-import Services from './components/Pages/Services/Services.jsx';
-import RecentWork from './components/Pages/RecentWork/RecentWork.jsx';
+
 import Contact from './components/Pages/Contacts/Contact.jsx';
 import MainLayout from './components/MainLayout/MainLayout.jsx';
-import Experience from './components/Pages/Home/Experience.jsx';
+import Work from './components/Pages/Work/Work.jsx';
+
 
 
 
@@ -28,25 +27,13 @@ const router = createBrowserRouter([
         element:<About/>
       },
       {
-        path:"journey",
-        element:<Journey/>
-      },
-      {
-        path:"services",
-        element:<Services/>
-      },
-      {
-        path:"recentWork",
-        element:<RecentWork/>
-      },     
+        path:"work",
+        element: <Work/>
+      },    
       {
         path:"contact",
         element: <Contact/>
-      },     
-      {
-        path:"experience",
-        element: <Experience/>
-      },     
+      },         
     ]
   },
 ]);

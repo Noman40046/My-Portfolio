@@ -61,33 +61,11 @@ const Header = () => {
                 className={({ isActive }) =>
                   `${isActive ? "text-[#4022E6] font-semibold" : "text-black font-semibold"}`
                 }
-                to="/journey"
+                to="/work"
               >
-                Journey
+                Work
               </NavLink>
-            </li>
-            <li>
-              <NavLink
-                onClick={closeMenu}
-                className={({ isActive }) =>
-                  `${isActive ? "text-[#4022E6] font-semibold" : "text-black font-semibold"}`
-                }
-                to="/services"
-              >
-                Services
-              </NavLink>
-            </li>
-            <li>
-              <NavLink
-                onClick={closeMenu}
-                className={({ isActive }) =>
-                  `${isActive ? "text-[#4022E6] font-semibold" : "text-black font-semibold"}`
-                }
-                to="/recentWork"
-              >
-                Recent Work
-              </NavLink>
-            </li>
+            </li>           
             <li>
               <NavLink
                 onClick={closeMenu}
