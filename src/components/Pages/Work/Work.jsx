@@ -12,7 +12,7 @@ const Work = () => {
 
         <div class="group cursor-pointer relative">
           <img
-            src="/public/work-img/img-1.png"
+            src="/work-img/img-1.png"
             alt="Image 1"
             class="w-full object-cover rounded-lg transition-transform transform scale-100 group-hover:scale-105"
           />
@@ -30,7 +30,7 @@ const Work = () => {
 
         <div class="group cursor-pointer relative">
           <img
-            src="/public/work-img/img-4.png"
+            src="/work-img/img-4.png"
             alt="Image 1"
             class="w-full object-cover rounded-lg transition-transform transform scale-100 group-hover:scale-105"
           />
@@ -49,7 +49,7 @@ const Work = () => {
 
         <div class="group cursor-pointer relative">
           <img
-            src="/public/work-img/img-3.png"
+            src="/work-img/img-3.png"
             alt="Image 1"
             class="w-full object-cover rounded-lg transition-transform transform scale-100 group-hover:scale-105"
           />
@@ -68,7 +68,7 @@ const Work = () => {
 
         <div class="group cursor-pointer relative">
           <img
-            src="/public/work-img/img-10.png"
+            src="./work-img/img-10.png"
             alt="Image 1"
             class="w-full object-cover rounded-lg transition-transform transform scale-100 group-hover:scale-105"
           />
@@ -87,7 +87,7 @@ const Work = () => {
 
         <div class="group cursor-pointer relative">
           <img
-            src="/public/work-img/img-6.png"
+            src="./work-img/img-6.png"
             alt="Image 1"
             class="w-full object-cover rounded-lg transition-transform transform scale-100 group-hover:scale-105"
           />
@@ -106,7 +106,7 @@ const Work = () => {
 
         <div class="group cursor-pointer relative">
           <img
-            src="/public/work-img/img-5.png"
+            src="./work-img/img-5.png"
             alt="Image 1"
             class="w-full object-cover rounded-lg transition-transform transform scale-100 group-hover:scale-105"
           />
@@ -125,7 +125,7 @@ const Work = () => {
 
         <div class="group cursor-pointer relative">
           <img
-            src="/public/work-img/img-9.png"
+            src="./work-img/img-9.png"
             alt="Image 1"
             class="w-full object-cover rounded-lg transition-transform transform scale-100 group-hover:scale-105"
           />
@@ -144,7 +144,7 @@ const Work = () => {
 
         <div class="group cursor-pointer relative">
           <img
-            src="/public/work-img/img-8.png"
+            src="./work-img/img-8.png"
             alt="Image 1"
             class="w-full object-cover rounded-lg transition-transform transform scale-100 group-hover:scale-105"
           />
